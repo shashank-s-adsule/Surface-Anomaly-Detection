@@ -4,7 +4,7 @@
 # they come pre-installed in the pytorch/pytorch base image.
 
 # Computer vision
-Pillow==10.3.0
+Pillow==13.0.0
 
 # ML utilities
 numpy==1.26.4
