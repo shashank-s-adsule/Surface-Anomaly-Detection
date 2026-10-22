@@ -16,5 +16,5 @@ tqdm==4.66.4
 mlflow==3.16.0
 
 # Utilities
-python-dotenv==1.0.1
+python-dotenv==1.2.2
 PyYAML==6.0.1
