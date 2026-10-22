@@ -19,7 +19,7 @@ apache-airflow==3.3.1
 
 # APP
 streamlit==1.35.0
-python-multipart==0.0.9
+python-multipart==0.0.31
 pydantic==2.7.1
 
 # Monitoring
