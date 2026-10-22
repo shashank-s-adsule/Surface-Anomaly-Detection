@@ -18,7 +18,7 @@ dvc==3.50.0
 apache-airflow==3.3.1
 
 # APP
-streamlit==1.35.0
+streamlit==1.54.0
 python-multipart==0.0.9
 pydantic==2.7.1
 
