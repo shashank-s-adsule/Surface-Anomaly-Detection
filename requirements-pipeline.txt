@@ -11,7 +11,7 @@ scipy==1.13.0
 tqdm==4.66.4
 
 # MLOps
-mlflow==3.16.0
+mlflow==3.17.2
 dvc==3.50.0
 
 # Orchestration
